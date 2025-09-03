@@ -12,7 +12,7 @@ public class UserLoaderConfig {
     CommandLineRunner run() {
         return args -> {
 
-            addUserIfNotExists("Viki", 27, "https://vbdev.at", "Junior Developer", "next:urban",
+            addUserIfNotExists("Viki", 1997, "https://vbdev.at", "Fullstack Developer"
 
                 "JavaScript, Java, HTML, CSS, React, PHP, SQL", Set.of("ADMIN"));
 
