@@ -14,7 +14,7 @@ public class UserLoaderConfig {
 
             addUserIfNotExists("Viki", 1997, "https://vbdev.at", "Fullstack Developer"
 
-                "JavaScript, Java, HTML, CSS, React, PHP, SQL", Set.of("ADMIN"));
+                "C, JavaScript, Java, HTML, CSS, React, PHP, SQL", Set.of("ADMIN"));
 
         };
     }
